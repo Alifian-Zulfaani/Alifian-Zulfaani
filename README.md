@@ -25,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifian-zulfaani&show_icons=true&locale=en" alt="alifian-zulfaani" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Alifian-Zulfaani's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifian-zulfaani&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifian-zulfaani&" alt="alifian-zulfaani" /></p>
