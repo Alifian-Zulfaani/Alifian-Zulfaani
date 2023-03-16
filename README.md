@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel & TensorFlow**
 
-- 💬 Ask me about **PHP, Vue, and Python**
+- 💬 Ask me about **Laravel, Vue, and Python**
 
 - 📫 How to reach me **inaafilakoko27@gmail.com**
 
