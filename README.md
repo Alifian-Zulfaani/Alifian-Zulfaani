@@ -22,6 +22,6 @@
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Alifian-Zulfaani&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alifian-Zulfaani&show_icons=true&locale=en" alt="alifian-zulfaani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alifian-Zulfaani&show_icons=true&locale=en" alt="Alifian-Zulfaani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alifian-Zulfaani&" alt="alifian-zulfaani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alifian-Zulfaani&" alt="Alifian-Zulfaani" /></p>
