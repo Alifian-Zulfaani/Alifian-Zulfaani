@@ -100,10 +100,6 @@ _Passionate about building modern web applications, exploring the depths of arti
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alifian-Zulfaani&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alifian-Zulfaani&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alifian-Zulfaani&theme=dark&hide_border=false" alt="Top Languages" width="60%" />
 </p>
 
